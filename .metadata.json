@@ -1,0 +1,10 @@
+[
+  {
+    "package": "epidemia",
+    "oncran": true
+  },
+  {
+    "package": "safedata",
+    "oncran": true
+  }
+]
